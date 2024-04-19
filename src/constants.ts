@@ -45,7 +45,7 @@ export const METADATA_2022_PROGRAM_ID_TESTNET = new PublicKey("M1tgEZCz7fHqRAR3G
 
  export const TESTNET_SHOW = true
 
-export const BOT_NAME = 'TesTicklez Token Snipooor'
+export const BOT_NAME = 'TesTicklez Jito Token Sniper'
 
 export const EXPLORER_ADDRESS_BASE = "https://explorer.solana.com/address/";
 
