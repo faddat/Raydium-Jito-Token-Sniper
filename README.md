@@ -8,7 +8,7 @@
 
     c) Edit the ./settings.ts with all commented fields
 
-    d) Edit the ./src/config.ts with the closest blockengine to your rpc.  For example the default is `frankfurt.mainnet.block-engine.jito.wtf` and you could change it to `ny.mainnet.block-engine.jito.wtf`.  THIS MAXIMIZES SPEEEEEEED!!!!
+    d) Edit the ./src/config.ts with the closest blockengine to your rpc.  For example the default is `frankfurt.mainnet.block-engine.jito.wtf` and you could change it to `ny.mainnet.block-engine.jito.wtf`.  THIS MAXIMIZES SPEEEEEEED!!!
 
     e) Run `ts-node snipe.ts`
 
