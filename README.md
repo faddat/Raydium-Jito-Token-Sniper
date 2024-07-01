@@ -15,7 +15,7 @@
 # More Tools and Support:
 Joing my discord for support and a bunch of cool tools like jito pool bundling scripts, volume bots, maker bots, any other cool stuff for token launches :)
 
-My Server: https://discord.gg/rn84eaRv7Y
+My Server: https://discord.gg/YExjxwYS3J
 
 My discord: _testicklez_
 
