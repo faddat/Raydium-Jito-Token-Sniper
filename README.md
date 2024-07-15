@@ -1,5 +1,15 @@
 # NOTE: To snipe all pools leave tokenAddress in settings blank, to snipe only 1 pool add your token address :)
 
+# More Tools and Support:
+Joing my discord for support and a bunch of cool tools like jito pool bundling scripts, volume bots, maker bots, any other cool stuff for token launches :)
+
+My Server: https://discord.gg/YExjxwYS3J
+
+My discord: _testicklez_
+
+My TG: @testicklez
+
+
 # Intructions:
 
     a) Run `npm i`.  
@@ -11,12 +21,3 @@
     d) Edit the ./src/config.ts with the closest blockengine to your rpc.  For example the default is `frankfurt.mainnet.block-engine.jito.wtf` and you could change it to `ny.mainnet.block-engine.jito.wtf`.  THIS MAXIMIZES SPEEEEEEED!!!
 
     e) Run `ts-node snipe.ts`
-
-# More Tools and Support:
-Joing my discord for support and a bunch of cool tools like jito pool bundling scripts, volume bots, maker bots, any other cool stuff for token launches :)
-
-My Server: https://discord.gg/YExjxwYS3J
-
-My discord: _testicklez_
-
-My TG: @testicklez
